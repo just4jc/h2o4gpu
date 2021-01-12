@@ -36,3 +36,4 @@ psutil>=5.4.2
 awscli>=1.11.148
 # for pycharm
 matplotlib>=2.0.0
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
